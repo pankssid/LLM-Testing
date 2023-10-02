@@ -34,7 +34,7 @@ def main():
     #     with st.chat_message(message["role"]):
     #         st.write(message["content"])
    
-    user_input= st.text_input("Enter you question in English/Spanish/Arabic ")
+    user_input= st.text_input("Enter your question in English/Spanish/Arabic ")
 
 
     if st.button("Submit"):
