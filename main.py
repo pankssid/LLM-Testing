@@ -28,7 +28,7 @@ st.set_page_config(layout="wide")
 
 def main():
 
-    st.title("Multilingual Model ")
+    st.title("MLAI Digital")
     # Display or clear chat messages
     # for message in st.session_state.messages:
     #     with st.chat_message(message["role"]):
